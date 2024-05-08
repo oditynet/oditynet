@@ -1,4 +1,4 @@
-![OS](https://archlinux.org/static/logos/archlinux-logo-black-90dpi.0c696e9c0d84.png)
+![OS](https://a.deviantart.net/avatars/a/r/archlinux.png?2)
 
 # Hi there 👋
 My name is Dima and I am a computer engineer at Rubytech company.
