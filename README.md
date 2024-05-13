@@ -4,6 +4,10 @@
 My name is Dima and I am a computer engineer at Rubytech company.
 
 ^ Open to work!
+## Competitions: 🥇
+
+### Algorithms [LeetCode](https://leetcode.com/oditynet/)
+
 
 # 🔭 I’m currently working on ...
 - Kuber
