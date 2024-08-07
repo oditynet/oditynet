@@ -11,7 +11,8 @@ My name is Dima and I am a computer engineer at Rubytech company.
 
 # 🔭 I’m currently working on ...
 - Kuber
-- Libvirt
+- Libvirt (Skala-R,Rosplatforma-R)
 - Automate install OS
+- bash,python,c\c++, asm, perl and etc.
 
 # 💬 Chat with me at Telegram @oditynet
