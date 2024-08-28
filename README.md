@@ -10,11 +10,11 @@ My name is Dima and I am a computer engineer at Rubytech company.
 
 
 # 🔭 I’m currently working on ...
+- Now: Big Data(spark, hadoop)
 - Kuber
 - Libvirt (Skala-R,Rosplatforma-R)
 - Automate install OS
 - bash,python,c\c++, asm, perl and etc.
 
-# - Now: Big Data(spark, hadoop)
 
 # 💬 Chat with me at Telegram @oditynet
