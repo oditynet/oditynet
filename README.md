@@ -10,8 +10,8 @@ My name is Dima and I am a computer engineer at Rubytech company.
 
 
 # 🔭 I’m currently working on ...
--Arenadata: ADB,ADH
--Funny programs
+- Arenadata: ADB,ADH
+- Funny programs
 EXwork:
 - Now: Big Data(spark, hadoop)
 - Kuber
