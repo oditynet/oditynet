@@ -13,7 +13,6 @@ My name is Dima and I am a computer engineer at Rubytech company.
 - Arenadata: ADB,ADH
 - Funny programs
 # EXwork:
-- Now: Big Data(spark, hadoop)
 - Kuber
 - Libvirt (Skala-R,Rosplatforma-R)
 - Automate install OS
