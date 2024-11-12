@@ -7,6 +7,7 @@ My name is Dima and I am a computer engineer at Rubytech company.
 ## Competitions: 🥇
 
 ### Algorithms [LeetCode](https://leetcode.com/oditynet/)
+### stackoverflow [LeetCode](https://stackoverflow.com/users/19450281/oditynet)
 
 
 # 🔭 I’m currently working on ...
