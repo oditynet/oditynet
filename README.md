@@ -13,6 +13,8 @@ My name is Dima and I am a computer engineer at Rubytech company.
 # 🔭 I’m currently working on ...
 - Arenadata: ADB,ADH
 - Funny programs
+- Browser addons
+- Virus, crash, debug, deasm, crack and etc...
 # EXwork:
 - Kuber
 - Libvirt (Skala-R,Rosplatforma-R)
