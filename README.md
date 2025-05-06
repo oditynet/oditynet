@@ -14,7 +14,7 @@ My name is Dima and I am a computer engineer at Rubytech company.
 - Arenadata: ADB,ADH
 - Funny programs
 - Browser addons
-- Virus, crash, debug, deasm, crack and etc...
+- Virus, crash, debug, deasm, crack and trubleshooting is my lovely...
 # EXwork:
 - Kuber
 - Libvirt (Skala-R,Rosplatforma-R)
