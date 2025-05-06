@@ -3,14 +3,14 @@
 # Hi there 👋
 My name is Dima and I am a computer engineer at Rubytech company.
 
-^ Open to work!
+^^ Open to work!
 ## Competitions: 🥇
 
 ### Algorithms [LeetCode](https://leetcode.com/oditynet/)
 ### stackoverflow [stackoverflow](https://stackoverflow.com/users/19450281/oditynet)
 
 
-# 🔭 I’m currently working on ...
+# I’m currently working on ...
 - Arenadata: ADB,ADH
 - Funny programs
 - Browser addons
@@ -22,4 +22,4 @@ My name is Dima and I am a computer engineer at Rubytech company.
 - bash,python,c\c++, asm, perl and etc.
 
 
-# 💬 Chat with me at Telegram @oditynet
+# Chat with me at Telegram @oditynet
