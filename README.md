@@ -2,6 +2,7 @@
 
 # Hi there 👋
 My name is Dima and I am a computer engineer at Rubytech company.
+I create free and open source software because I believe that software should be available to everyone, without having to sell our souls to data mining megacorporations.
 
 ^^ Open to work!
 ## Competitions: 🥇
